@@ -1,0 +1,76 @@
+{
+  "footer": [
+    {
+      "title": "Oyunlar",
+      "links": [
+        { "label": "Fortnite", "url": "" },
+        { "label": "Fall Guys", "url": "" },
+        { "label": "Rocket League", "url": "" },
+        { "label": "Unreal Tournament", "url": "" },
+        { "label": "Infinity Blade", "url": "" },
+        { "label": "Shadow Complex", "url": "" },
+        { "label": "Robo Recall", "url": "" }
+      ]
+    },
+    {
+      "title": "Pazaryerləri",
+      "links": [
+        { "label": "Epic Games Store", "url": "" },
+        { "label": "Fab", "url": "" },
+        { "label": "Fab'de Quixel Megascans", "url": "" },
+        { "label": "Fab'de Quixel Megaplants", "url": "" },
+        { "label": "Sketchfab", "url": "" },
+        { "label": "ArtStation", "url": "" },
+        { "label": "Mağaza İade İlkesi", "url": "" },
+        { "label": "Mağaza SKLA", "url": "" }
+      ]
+    },
+    {
+      "title": "Araçlar",
+      "links": [
+        { "label": "Unreal Engine", "url": "" },
+        { "label": "UEFN", "url": "" },
+        { "label": "MetaHuman", "url": "" },
+        { "label": "Twinmotion", "url": "" },
+        { "label": "RealityScan", "url": "" },
+        { "label": "RAD Game Tools", "url": "" }
+      ]
+    },
+    {
+      "title": "Çevrimiçi Hizmetler",
+      "links": [
+        { "label": "Epic Online Services", "url": "" },
+        { "label": "Kids Web Services", "url": "" },
+        { "label": "Hizmet Anlaşması", "url": "" },
+        { "label": "Kabul Edilebilir Kullanım Politikası", "url": "" },
+        { "label": "Dürüstlük Beyanı", "url": "" },
+        { "label": "Alt Veri İşleyicisi Listesi", "url": "" }
+      ]
+    },
+    {
+      "title": "Şirket",
+      "links": [
+        { "label": "Hakkında", "url": "" },
+        { "label": "Newsroom", "url": "" },
+        { "label": "Kariyer Olanakları", "url": "" },
+        { "label": "Öğrenciler", "url": "" },
+        { "label": "Kullanıcı Deneyimi Araştırması", "url": "" }
+      ]
+    },
+    {
+      "title": "Kaynaklar",
+      "links": [
+        { "label": "Geliştirici Topluluğu", "url": "" },
+        { "label": "MegaGrants", "url": "" },
+        { "label": "İçerik Üreticilerini Destekleme", "url": "" },
+        { "label": "İçerik Üreticisi Anlaşması", "url": "" },
+        { "label": "Epic Games'te Dağıtım Yap", "url": "" },
+        { "label": "Unreal Engine Marka Rehberleri", "url": "" },
+        { "label": "Hayran İçerik Politikası", "url": "" },
+        { "label": "Topluluk Kuralları", "url": "" },
+        { "label": "AB Dijital Hizmetler Yasası Soruları", "url": "" },
+        { "label": "Epic Profesyonel Destek", "url": "" }
+      ]
+    }
+  ]
+}

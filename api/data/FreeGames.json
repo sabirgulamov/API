@@ -1,0 +1,286 @@
+[
+    {
+        "id": "59",
+        "title": "Arranger: A Role-Puzzling Adventure",
+        "url": "https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7",
+        "developer": "Furniture & Mattress LLC",
+        "publisher": "Furniture & Mattress LLC",
+        "releaseDate": "07/25/24",
+        "platform": "Windows",
+        "genres": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "features": [
+            "Features:"
+        ],
+        "playerRating": "4.6",
+        "discount": "-100%",
+        "oldPrice": "$8.99",
+        "newPrice": "Free",
+        "category": "free",
+        "slug": "arranger-a-role-puzzling-adventure",
+        "coverImage": "https://i.ibb.co/1J7ZzHXy/935646f3901f.jpg",
+        "coverImage2": "https://i.ibb.co/N6MXJ4gx/8e8e3ddd666c.png",
+        "images": [
+            "https://i.ibb.co/XrGGrwpP/9889b21e0269.jpg",
+            "https://i.ibb.co/k2skVZNn/f0c3efaf0ef8.png",
+            "https://i.ibb.co/mrngtsFB/01f43078c32b.jpg",
+            "https://i.ibb.co/SXqk1s6G/bf82e096ff58.jpg",
+            "https://i.ibb.co/VYFcpj0H/06310fe53035.jpg"
+        ]
+    },
+    {
+        "id": "60",
+        "title": "Trash Goblin",
+        "url": "https://store.epicgames.com/p/trash-goblin-cd5fd7",
+        "developer": "Spilt Milk Studios",
+        "publisher": "Spilt Milk Studios",
+        "releaseDate": "11/06/24",
+        "platform": "Windows",
+        "genres": [
+            "Casual",
+            "Fantasy",
+            "Simulation"
+        ],
+        "features": [
+            "Cloud Saves",
+            "Controller Support",
+            "Single Player"
+        ],
+        "playerRating": "4.3",
+        "discount": null,
+        "oldPrice": "$8.99",
+        "newPrice": "Free",
+        "category": "free",
+        "slug": "trash-goblin",
+        "coverImage": "https://i.ibb.co/RrvnF1X/65447bfd5157.jpg",
+        "coverImage2": "https://i.ibb.co/r2dByWMZ/9f12cb76d360.png",
+        "images": [
+            "https://i.ibb.co/vCDrs5vq/8026700cad27.jpg"
+        ]
+    },
+    {
+        "id": "63",
+        "title": "Apex Legends™",
+        "url": "https://store.epicgames.com/p/apex-legends-006cde",
+        "developer": "Respawn",
+        "publisher": "Electronic Arts",
+        "releaseDate": "02/05/19",
+        "platform": "Windows",
+        "genres": [
+            "Action"
+        ],
+        "features": [
+            "Competitive",
+            "Online Multiplayer"
+        ],
+        "playerRating": "4.2",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "Free",
+        "category": "most-popular",
+        "slug": "apex-legends",
+        "coverImage": "https://i.ibb.co/wZsSkdw7/449cca7046a6.jpg",
+        "coverImage2": "https://i.ibb.co/YT3z58BJ/10519a8cbea8.png",
+        "images": [
+            "https://i.ibb.co/G4jK6W86/995684991ca0.jpg",
+            "https://i.ibb.co/Kp57qSgT/9f9075fc516a.jpg",
+            "https://i.ibb.co/GfJ1SNBT/1537726196f5.jpg",
+            "https://i.ibb.co/SwcczH0S/01cf42378356.jpg",
+            "https://i.ibb.co/zTPnK4Sn/c595a78d0ae0.jpg"
+        ]
+    },
+    {
+        "id": "75",
+        "title": "Crosshair V2",
+        "url": "https://store.epicgames.com/p/crosshair-v2-d58322",
+        "developer": "CenterPoint Gaming",
+        "publisher": "CenterPoint Gaming",
+        "releaseDate": "01/27/23",
+        "platform": "Windows",
+        "genres": [
+            "Shooter"
+        ],
+        "features": [
+            "Competitive"
+        ],
+        "playerRating": "4.3",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "Free",
+        "category": "most-popular",
+        "slug": "crosshair-v2",
+        "coverImage": "https://i.ibb.co/FpM613H/c171d2a23cec.png",
+        "coverImage2": "https://i.ibb.co/zTGK2rzM/1530ddcb1392.png",
+        "images": [
+            "https://i.ibb.co/j9fMNMZy/ff5f0fccc50c.png",
+            "https://i.ibb.co/rSpFL77/22f8884788ee.png",
+            "https://i.ibb.co/V8Drvw6/7262a163de5c.png",
+            "https://i.ibb.co/gFh80cGc/6cf0c64c0a76.png",
+            "https://i.ibb.co/q3XSqKWx/2e6edfee4542.png"
+        ]
+    },
+    {
+        "id": "88",
+        "title": "Hone",
+        "url": "https://store.epicgames.com/p/hone-b51a2d",
+        "developer": "Auraside",
+        "publisher": "Auraside",
+        "releaseDate": "07/11/23",
+        "platform": "Windows",
+        "genres": [
+            "Indie"
+        ],
+        "features": [
+            "Single Player"
+        ],
+        "playerRating": "3.5",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "Free",
+        "category": "most-popular",
+        "slug": "hone",
+        "coverImage": "https://i.ibb.co/G4TFNQ54/cba87030d19f.png",
+        "coverImage2": "https://i.ibb.co/MDWsMSyw/3e581ca73660.png",
+        "images": [
+            "https://i.ibb.co/ZpNSRrL9/a08b7d384a11.png",
+            "https://i.ibb.co/MW9rwJY/1c5452751fd1.png",
+            "https://i.ibb.co/CpMYdS8d/9800ef5225bd.png",
+            "https://i.ibb.co/8g5jsZjH/a72fc9bd113c.png",
+            "https://i.ibb.co/SX3n4ChQ/d76a2f186f04.png"
+        ]
+    },
+    {
+        "id": "92",
+        "title": "League of Legends",
+        "url": "https://store.epicgames.com/p/league-of-legends",
+        "developer": "Riot Games",
+        "publisher": "Riot Games",
+        "releaseDate": "10/27/09",
+        "platform": "Windows",
+        "genres": [
+            "Action",
+            "RPG",
+            "Strategy"
+        ],
+        "features": [
+            "Co-op",
+            "Competitive",
+            "Multiplayer",
+            "Single Player"
+        ],
+        "playerRating": "4.2",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "Free",
+        "category": "most-popular",
+        "slug": "league-of-legends",
+        "coverImage": "https://i.ibb.co/jvxdNFy6/17ad63a4a33e.jpg",
+        "coverImage2": "https://i.ibb.co/pj7yVvMz/910a9435a877.png",
+        "images": [
+            "https://i.ibb.co/VWJbfV47/a5426f080140.jpg",
+            "https://i.ibb.co/LhqRk4yg/b3a3819c91ee.jpg",
+            "https://i.ibb.co/fGGnWBXM/9560ebe377a4.jpg",
+            "https://i.ibb.co/1JT0CFGV/a72276729173.jpg",
+            "https://i.ibb.co/HpBxnF3m/7228465f7f75.jpg"
+        ]
+    },
+    {
+        "id": "93",
+        "title": "Magic: The Gathering Arena",
+        "url": "https://store.epicgames.com/p/mtg-arena",
+        "developer": "Wizards of the Coast",
+        "publisher": "Wizards of the Coast",
+        "releaseDate": "01/16/20",
+        "platform": "Windows",
+        "genres": [
+            "Card Game",
+            "Strategy"
+        ],
+        "features": [
+            "Competitive",
+            "Multiplayer"
+        ],
+        "playerRating": "4.5",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "Free",
+        "category": "most-popular",
+        "slug": "magic-the-gathering-arena",
+        "coverImage": "https://i.ibb.co/mCJWNybZ/9fd3568aaa9f.jpg",
+        "coverImage2": "https://i.ibb.co/GvdNBQz3/a45e4bd6671f.png",
+        "images": [
+            "https://i.ibb.co/k25Q5t5F/23c9b71e1eed.jpg",
+            "https://i.ibb.co/GvB95tBx/19d632023210.jpg",
+            "https://i.ibb.co/ymxFGZYD/b517b0706fa8.jpg",
+            "https://i.ibb.co/rfNWKfGh/aef86312b0a9.jpg",
+            "https://i.ibb.co/7x7hMgn0/41b17bbfae51.jpg"
+        ]
+    },
+    {
+        "id": "94",
+        "title": "Marvel Rivals",
+        "url": "https://store.epicgames.com/p/marvel-rivals-182004",
+        "developer": "NetEase Games",
+        "publisher": "NetEase Games",
+        "releaseDate": "12/06/24",
+        "platform": "Windows",
+        "genres": [
+            "Action",
+            "Shooter"
+        ],
+        "features": [
+            "Co-op",
+            "Competitive",
+            "Online Multiplayer"
+        ],
+        "playerRating": "4.6",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "Free",
+        "category": "most-popular",
+        "slug": "marvel-rivals",
+        "coverImage": "https://i.ibb.co/vFp8dmV/a931ff63bc7c.png",
+        "coverImage2": "https://i.ibb.co/tTPxLPpj/01a0833c69f1.png",
+        "images": [
+            "https://i.ibb.co/ynjt9Nzw/b8a3d51c5a76.jpg",
+            "https://i.ibb.co/sJsGrRgz/79d347483d9d.jpg",
+            "https://i.ibb.co/DfCqYWkd/0f222ab2ec93.jpg",
+            "https://i.ibb.co/zWfSGQRw/db55cbb0e6b8.jpg",
+            "https://i.ibb.co/wZQ1G6X4/d217cabee77b.jpg"
+        ]
+    },
+    {
+        "id": "95",
+        "title": "NARAKA: BLADEPOINT",
+        "url": "https://store.epicgames.com/p/naraka-bladepoint",
+        "developer": "24 Entertainment",
+        "publisher": "NetEase Montreal",
+        "releaseDate": "08/11/21",
+        "platform": "Windows",
+        "genres": [
+            "Action"
+        ],
+        "features": [
+            "Competitive",
+            "Cross Platform",
+            "Online Multiplayer"
+        ],
+        "playerRating": "4.2",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "Free",
+        "category": "most-popular",
+        "slug": "naraka-bladepoint",
+        "coverImage": "https://i.ibb.co/LzR06Vqm/fa16b2f40141.jpg",
+        "coverImage2": "https://i.ibb.co/JRCT8pkJ/c315cf20368c.png",
+        "images": [
+            "https://i.ibb.co/B2rv721J/6738e953ef6f.jpg",
+            "https://i.ibb.co/ZR2bZXqK/e9fbfeb8f390.png",
+            "https://i.ibb.co/ymGHqW9G/eaeba4a1bce9.jpg",
+            "https://i.ibb.co/V0bVVzb6/29ca3158cb11.jpg",
+            "https://i.ibb.co/7DQ7JqP/d8bb64a3318d.jpg"
+        ]
+    }
+]

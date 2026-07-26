@@ -1,0 +1,391 @@
+[
+    {
+        "id": "101",
+        "title": "Brainrot Kart",
+        "url": "https://store.epicgames.com/en-US/p/brainrot-kart-e4e71b",
+        "developer": "Skibidi Studios",
+        "publisher": "Skibidi Studios",
+        "releaseDate": "12/12/25",
+        "platform": "Windows",
+        "genres": [
+            "Action",
+            "Indie",
+            "Racing"
+        ],
+        "features": [
+            "Co-op",
+            "Competitive",
+            "Controller Support",
+            "Online Multiplayer"
+        ],
+        "playerRating": "N/A",
+        "discount": "-40%",
+        "oldPrice": "$0.89",
+        "newPrice": "$0.53",
+        "category": "coming-soon-wishlist",
+        "slug": "brainrot-kart",
+        "coverImage": "https://i.ibb.co/TBLT6Jhs/c7f2c6ec7645.png",
+        "coverImage2": null,
+        "images": [
+            "https://i.ibb.co/DDPbZwh5/9533d24b1c3a.png",
+            "https://i.ibb.co/pvrbsvfb/c93bc0679219.png",
+            "https://i.ibb.co/dJgBwRPv/0090f7b01ec6.png",
+            "https://i.ibb.co/yBb3gPDQ/948086868b56.png",
+            "https://i.ibb.co/8L4FDhNP/b669ccd263cb.png"
+        ]
+    },
+    {
+        "id": "102",
+        "title": "Can You Escape: The Collection",
+        "url": "https://store.epicgames.com/en-US/p/can-you-escape-the-collection-79ea48",
+        "developer": "Mobiplay",
+        "publisher": "Mobiplay",
+        "releaseDate": "07/25/25",
+        "platform": "Windows",
+        "genres": [
+            "Puzzle",
+            "Retro"
+        ],
+        "features": [
+            "Single Player"
+        ],
+        "playerRating": "N/A",
+        "discount": "-30%",
+        "oldPrice": "$1.79",
+        "newPrice": "$1.25",
+        "category": "coming-soon-wishlist",
+        "slug": "can-you-escape-the-collection",
+        "coverImage": "https://i.ibb.co/QGKmpRy/403f46906da2.png",
+        "coverImage2": null,
+        "images": [
+            "https://i.ibb.co/pr05c8rD/8fe0550caaab.png",
+            "https://i.ibb.co/JjfKd0KP/5969f842a361.png",
+            "https://i.ibb.co/HTjzhFb8/143796523b8b.png",
+            "https://i.ibb.co/xtGmpC4S/b1e4313bcab2.png",
+            "https://i.ibb.co/YBSDHk4b/3219d859c1df.jpg"
+        ]
+    },
+    {
+        "id": "103",
+        "title": "Legacy of Kain: Defiance Remastered",
+        "url": "https://store.epicgames.com/en-US/p/legacy-of-kain-defiance-remastered-a04d16",
+        "developer": "Crystal Dynamics, PlayEveryWare",
+        "publisher": "Crystal Dynamics",
+        "releaseDate": "03/03/26",
+        "platform": "Windows",
+        "genres": [
+            "Action-Adventure"
+        ],
+        "features": [
+            "Cloud Saves",
+            "Single Player"
+        ],
+        "playerRating": "4.5",
+        "discount": "-25%",
+        "oldPrice": "$24.99",
+        "newPrice": "$18.74",
+        "category": "coming-soon-wishlist",
+        "slug": "legacy-of-kain-defiance-remastered",
+        "coverImage": "https://i.ibb.co/MyDnKNyM/2474f4b55541.jpg",
+        "coverImage2": null,
+        "images": [
+            "https://i.ibb.co/xSqRh4Bk/4b4a21b57e20.png",
+            "https://i.ibb.co/fVCfQvSn/87733239ddeb.png",
+            "https://i.ibb.co/S4rvP4Rk/72b351eeb3ba.png",
+            "https://i.ibb.co/Kz36fD7n/4d9a8f68de51.png",
+            "https://i.ibb.co/1JGtBYCD/c0ed32b95c55.png"
+        ]
+    },
+    {
+        "id": "104",
+        "title": "Planet Alpha - Deluxe Edition",
+        "url": "https://store.epicgames.com/en-US/p/planet-alpha-planet-alpha-digital-deluxe-edition-52697f",
+        "developer": "Planet Alpha ApS",
+        "publisher": "Team17",
+        "releaseDate": "11/11/25",
+        "platform": "Windows",
+        "genres": [
+            "Exploration",
+            "Platformer",
+            "Puzzle"
+        ],
+        "features": [
+            "Achievements",
+            "Single Player"
+        ],
+        "playerRating": "N/A",
+        "discount": "-70%",
+        "oldPrice": "$8.49",
+        "newPrice": "$2.54",
+        "category": "coming-soon-wishlist",
+        "slug": "planet-alpha-deluxe-edition",
+        "coverImage": "https://i.ibb.co/7x2s2dRd/10e274f5cb97.png",
+        "coverImage2": "https://i.ibb.co/yFW58WBW/23d3a7712fc1.jpg",
+        "images": [
+            "https://i.ibb.co/hFfx8Jh3/f03f1ac8a129.png",
+            "https://i.ibb.co/chrgnHst/704aa83b5aa3.jpg"
+        ]
+    },
+    {
+        "id": "105",
+        "title": "Smart Farm",
+        "url": "https://store.epicgames.com/en-US/p/smart-farm-b17207",
+        "developer": "ZD Games",
+        "publisher": "ZD Games",
+        "releaseDate": "03/03/26",
+        "platform": "Windows",
+        "genres": [
+            "Adventure",
+            "RPG",
+            "Simulation"
+        ],
+        "features": [
+            "Single Player"
+        ],
+        "playerRating": "N/A",
+        "discount": "-20%",
+        "oldPrice": "$2.19",
+        "newPrice": "$1.75",
+        "category": "coming-soon-wishlist",
+        "slug": "smart-farm",
+        "coverImage": "https://i.ibb.co/h18h94hD/5a971b5f8e39.png",
+        "coverImage2": null,
+        "images": [
+            "https://i.ibb.co/4ZKXCzrk/ca17a4a01da9.png",
+            "https://i.ibb.co/0jxV672s/6e005d15eb51.png",
+            "https://i.ibb.co/PzvB23dc/abdad3306d62.png",
+            "https://i.ibb.co/Pvd2MC6K/332fc8bdcb3d.png",
+            "https://i.ibb.co/SFHnY1x/05708d6a00b0.png"
+        ]
+    },
+    {
+        "id": "106",
+        "title": "The Seven Enchantments",
+        "url": "https://store.epicgames.com/en-US/p/the-seven-enchantments-374db8",
+        "developer": "Revolt Entertainment",
+        "publisher": "Revolt Entertainment",
+        "releaseDate": "12/07/25",
+        "platform": "Windows",
+        "genres": [
+            "Exploration",
+            "Horror",
+            "Indie"
+        ],
+        "features": [
+            "Cloud Saves",
+            "Single Player"
+        ],
+        "playerRating": "N/A",
+        "discount": "-80%",
+        "oldPrice": "$4.49",
+        "newPrice": "$0.89",
+        "category": "coming-soon-wishlist",
+        "slug": "the-seven-enchantments",
+        "coverImage": "https://i.ibb.co/q6qBLGz/502763ff2abf.png",
+        "coverImage2": null,
+        "images": [
+            "https://i.ibb.co/t5h1WjC/3c6d092f8425.png",
+            "https://i.ibb.co/yngXDRN0/468e2ae90e04.jpg",
+            "https://i.ibb.co/gqtkLvT/15057db01fb7.jpg",
+            "https://i.ibb.co/hxRxMN2Q/1647edf3ab3a.jpg",
+            "https://i.ibb.co/M5tLmtnF/474724ddc538.png"
+        ]
+    },
+    {
+        "id": "107",
+        "title": "ARC Raiders",
+        "url": "https://store.epicgames.com/p/arc-raiders",
+        "developer": "Embark Studios",
+        "publisher": "Embark Studios",
+        "releaseDate": "10/30/25",
+        "platform": "Windows",
+        "genres": [
+            "Action-Adventure",
+            "Shooter",
+            "Survival"
+        ],
+        "features": [
+            "Controller Support",
+            "Cross Platform",
+            "Online Multiplayer"
+        ],
+        "playerRating": "4.7",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "$39.99",
+        "category": "coming-soon-wishlist",
+        "slug": "arc-raiders",
+        "coverImage": "https://i.ibb.co/gM98DTR2/764215138674.jpg",
+        "coverImage2": "https://i.ibb.co/zV1CRs03/3d721e2c59fb.png",
+        "images": [
+            "https://i.ibb.co/fGy9BvB2/64a664daf355.png",
+            "https://i.ibb.co/PvqmRHKx/95d5b7a77937.png",
+            "https://i.ibb.co/QFgDXdVw/88933169da1a.png",
+            "https://i.ibb.co/gYGwSLM/59f59ea4e612.png",
+            "https://i.ibb.co/DH5nNq1Z/a2d8c15a6492.png"
+        ]
+    },
+    {
+        "id": "108",
+        "title": "Political Run: World Leaders",
+        "url": "https://store.epicgames.com/en-US/p/political-run-world-leaders-7e8e02",
+        "developer": "Yusuf Islam Seyhan, Samet Acar",
+        "publisher": "INSPECTOR STUDIOS",
+        "releaseDate": "01/03/26",
+        "platform": "Windows",
+        "genres": [
+            "Casual",
+            "Comedy",
+            "Indie"
+        ],
+        "features": [
+            "Single Player"
+        ],
+        "playerRating": "N/A",
+        "discount": "-51%",
+        "oldPrice": "$0.49",
+        "newPrice": "$0.24",
+        "category": "coming-soon-wishlist",
+        "slug": "political-run-world-leaders",
+        "coverImage": "https://i.ibb.co/kg26Qtw1/006c48bec7c1.png",
+        "coverImage2": null,
+        "images": [
+            "https://i.ibb.co/JWW1rpNZ/df805a9d86c2.jpg",
+            "https://i.ibb.co/Z6Z3CfvB/a5841d07cee3.jpg",
+            "https://i.ibb.co/0jn4FVpN/56b54939067e.jpg",
+            "https://i.ibb.co/C5dFLGjj/35e7b35b10fa.jpg",
+            "https://i.ibb.co/qLpKpBY6/3a3eca81f37d.jpg"
+        ]
+    },
+    {
+        "id": "109",
+        "title": "EA SPORTS FC™ 26 ICONS Edition",
+        "url": "https://store.epicgames.com/p/ea-sports-fc-26--icons-edition",
+        "developer": "EA CANADA",
+        "publisher": "Electronic Arts",
+        "releaseDate": "04/07/26",
+        "platform": "Windows",
+        "genres": [
+            "Simulation",
+            "Sports"
+        ],
+        "features": [
+            "Co-op",
+            "Multiplayer",
+            "Single Player"
+        ],
+        "playerRating": "4.1",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "$89.99",
+        "category": "coming-soon-wishlist",
+        "slug": "ea-sports-fc-26-icons-edition",
+        "coverImage": "https://i.ibb.co/pBrCKFfn/fe3d1101d2b4.jpg",
+        "coverImage2": "https://i.ibb.co/Ndw4zrGr/b48120af5edd.png",
+        "images": [
+            "https://i.ibb.co/0pyF6v1w/2b6ee15a5b00.jpg",
+            "https://i.ibb.co/bgQQ1SJw/8483ca1b38d6.jpg",
+            "https://i.ibb.co/zhZN3m3q/002e726e42a2.jpg",
+            "https://i.ibb.co/jPNQD0Xm/cb15b57bce9b.jpg"
+        ]
+    },
+    {
+        "id": "110",
+        "title": "Football Manager 26",
+        "url": "https://store.epicgames.com/p/football-manager-26-080e85",
+        "developer": "Sports Interactive",
+        "publisher": "SEGA",
+        "releaseDate": "11/04/25",
+        "platform": "Windows",
+        "genres": [
+            "Simulation",
+            "Sports",
+            "Strategy"
+        ],
+        "features": [
+            "Online Multiplayer",
+            "Single Player"
+        ],
+        "playerRating": "3.6",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "$49.99",
+        "category": "coming-soon-wishlist",
+        "slug": "football-manager-26",
+        "coverImage": "https://i.ibb.co/DHXKmNYQ/f556c4771973.jpg",
+        "coverImage2": "https://i.ibb.co/QvdX2zJb/0749c07253a2.png",
+        "images": [
+            "https://i.ibb.co/ynkycPNz/1bea19bb1034.png",
+            "https://i.ibb.co/4wg0RHnq/76219f200c2a.jpg",
+            "https://i.ibb.co/gLLwBxrR/40ed2c97a205.jpg",
+            "https://i.ibb.co/hxWWG8V6/ba0b56f2186d.jpg",
+            "https://i.ibb.co/Y4Q0wnW0/109892253173.jpg"
+        ]
+    },
+    {
+        "id": "111",
+        "title": "Sonic Racing: CrossWorlds Digital Deluxe Edition",
+        "url": "https://store.epicgames.com/en-US/p/sonic-racing-crossworlds-terra-deluxe-edition-bundle-bbf2d8",
+        "developer": "Sonic Team",
+        "publisher": "SEGA",
+        "releaseDate": "09/25/25",
+        "platform": "Windows",
+        "genres": [
+            "Action",
+            "Racing"
+        ],
+        "features": [
+            "Achievements",
+            "Online Multiplayer",
+            "Single Player"
+        ],
+        "playerRating": "4.8",
+        "discount": "-40%",
+        "oldPrice": "$89.99",
+        "newPrice": "$53.99",
+        "category": "coming-soon-wishlist",
+        "slug": "sonic-racing-crossworlds-digital-deluxe-edition",
+        "coverImage": "https://i.ibb.co/6JfLkQjz/56db7e2b4844.jpg",
+        "coverImage2": "https://i.ibb.co/hJpwkTv0/3790faac81e2.jpg",
+        "images": [
+            "https://i.ibb.co/JF0N7yFC/6cc25e18f98a.jpg",
+            "https://i.ibb.co/s9dN3sS2/f685093c5756.jpg",
+            "https://i.ibb.co/hRm60QF8/604f6480c82f.jpg",
+            "https://i.ibb.co/3m3sQHf6/a1303ce450e0.jpg",
+            "https://i.ibb.co/Qjctjcp4/d71041a6af89.jpg"
+        ]
+    },
+    {
+        "id": "112",
+        "title": "Battlefield™ 6",
+        "url": "https://store.epicgames.com/p/battlefield-6",
+        "developer": "Battlefield Studios",
+        "publisher": "Electronic Arts",
+        "releaseDate": "10/10/25",
+        "platform": "Windows",
+        "genres": [
+            "First Person",
+            "Shooter"
+        ],
+        "features": [
+            "Achievements",
+            "Multiplayer",
+            "Single Player"
+        ],
+        "playerRating": "4.5",
+        "discount": null,
+        "oldPrice": null,
+        "newPrice": "$69.99",
+        "category": "coming-soon-wishlist",
+        "slug": "battlefield-6",
+        "coverImage": "https://i.ibb.co/JFFrVJx5/73b16c2eb1c0.jpg",
+        "coverImage2": "https://i.ibb.co/wFXjF1V2/52aa2461392d.png",
+        "images": [
+            "https://i.ibb.co/DfRrfjnK/a93b8621ad49.jpg",
+            "https://i.ibb.co/TxhKmYNC/0e3b468d8577.jpg",
+            "https://i.ibb.co/PGpkn0yT/1f1884f8dabc.jpg",
+            "https://i.ibb.co/pvw77SMK/fd6b0571c385.jpg",
+            "https://i.ibb.co/m5kxrjmD/5169347791ba.jpg"
+        ]
+    }
+]

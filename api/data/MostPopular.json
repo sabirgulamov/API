@@ -1,0 +1,952 @@
+[
+  {
+    "id": "61",
+    "title": "Alan Wake 2",
+    "url": "https://store.epicgames.com/p/alan-wake-2",
+    "developer": "Remedy Entertainment",
+    "publisher": "Epic Games Publishing",
+    "releaseDate": "10/27/23",
+    "platform": "Windows",
+    "genres": [
+      "Action-Adventure",
+      "Horror",
+      "Shooter"
+    ],
+    "features": [
+      "Achievements",
+      "Cloud Saves",
+      "Single Player"
+    ],
+    "playerRating": "4.8",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$36.49",
+    "category": "most-popular",
+    "slug": "alan-wake-2",
+    "coverImage": "https://i.ibb.co/gpjSgMQ/268d64e00820.jpg",
+    "coverImage2": "https://i.ibb.co/WpnXgL0G/da2c1bbef495.png",
+    "images": [
+      "https://i.ibb.co/rRr8qWKZ/dbb71bec5d1d.jpg",
+      "https://i.ibb.co/Kjx7Jt1W/3d37012b7107.jpg",
+      "https://i.ibb.co/DHpWLLBM/f86cbdbdc2fd.jpg",
+      "https://i.ibb.co/pjqhc6c8/3cdfb0671708.png",
+      "https://i.ibb.co/BH1VXVzd/1f6a1e4c287e.jpg"
+    ]
+  },
+  {
+    "id": "62",
+    "title": "Among Us",
+    "url": "https://store.epicgames.com/p/among-us",
+    "developer": "Innersloth",
+    "publisher": "Innersloth",
+    "releaseDate": "06/15/18",
+    "platform": "Windows",
+    "genres": [
+      "Casual"
+    ],
+    "features": [
+      "Co-op",
+      "Competitive",
+      "Online Multiplayer"
+    ],
+    "playerRating": "4.5",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$2.99",
+    "category": "most-popular",
+    "slug": "among-us",
+    "coverImage": "https://i.ibb.co/d4H2cfGX/b9cf87d4c41e.jpg",
+    "coverImage2": "https://i.ibb.co/fzJ8YGYk/1007d2ad9248.png",
+    "images": [
+      "https://i.ibb.co/yc6rfSWJ/30c5acc7a089.png",
+      "https://i.ibb.co/0y6wBxKY/cb4ee96ceffb.jpg",
+      "https://i.ibb.co/nsfV4RR0/f89d45bd88c7.jpg",
+      "https://i.ibb.co/7dWrMbMb/4b97f1a7e3a4.jpg",
+      "https://i.ibb.co/fGv9L9YW/89fe68c93e15.jpg"
+    ]
+  },
+  {
+    "id": "63",
+    "title": "Apex Legends™",
+    "url": "https://store.epicgames.com/p/apex-legends-006cde",
+    "developer": "Respawn",
+    "publisher": "Electronic Arts",
+    "releaseDate": "02/05/19",
+    "platform": "Windows",
+    "genres": [
+      "Action"
+    ],
+    "features": [
+      "Competitive",
+      "Online Multiplayer"
+    ],
+    "playerRating": "4.2",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "Free",
+    "category": "most-popular",
+    "slug": "apex-legends",
+    "coverImage": "https://i.ibb.co/wZsSkdw7/449cca7046a6.jpg",
+    "coverImage2": "https://i.ibb.co/YT3z58BJ/10519a8cbea8.png",
+    "images": [
+      "https://i.ibb.co/G4jK6W86/995684991ca0.jpg",
+      "https://i.ibb.co/Kp57qSgT/9f9075fc516a.jpg",
+      "https://i.ibb.co/GfJ1SNBT/1537726196f5.jpg",
+      "https://i.ibb.co/SwcczH0S/01cf42378356.jpg",
+      "https://i.ibb.co/zTPnK4Sn/c595a78d0ae0.jpg"
+    ]
+  },
+  {
+    "id": "64",
+    "title": "ARC Raiders",
+    "url": "https://store.epicgames.com/p/arc-raiders",
+    "developer": "Embark Studios",
+    "publisher": "Embark Studios",
+    "releaseDate": "10/30/25",
+    "platform": "Windows",
+    "genres": [
+      "Action-Adventure",
+      "Shooter",
+      "Survival"
+    ],
+    "features": [
+      "Controller Support",
+      "Cross Platform",
+      "Online Multiplayer"
+    ],
+    "playerRating": "4.7",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$39.99",
+    "category": "most-popular",
+    "slug": "arc-raiders",
+    "coverImage": "https://i.ibb.co/gM98DTR2/764215138674.jpg",
+    "coverImage2": "https://i.ibb.co/zV1CRs03/3d721e2c59fb.png",
+    "images": [
+      "https://i.ibb.co/fGy9BvB2/64a664daf355.png",
+      "https://i.ibb.co/PvqmRHKx/95d5b7a77937.png",
+      "https://i.ibb.co/QFgDXdVw/88933169da1a.png",
+      "https://i.ibb.co/gYGwSLM/59f59ea4e612.png",
+      "https://i.ibb.co/DH5nNq1Z/a2d8c15a6492.png"
+    ]
+  },
+  {
+    "id": "65",
+    "title": "ARK: Survival Evolved",
+    "url": "https://store.epicgames.com/p/ark",
+    "developer": "Studio Wildcard",
+    "publisher": "Snail Games USA",
+    "releaseDate": "06/11/20",
+    "platform": "Windows",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Survival"
+    ],
+    "features": [
+      "Single Player"
+    ],
+    "playerRating": "4.6",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$6.69",
+    "category": "most-popular",
+    "slug": "ark-survival-evolved",
+    "coverImage": "https://i.ibb.co/274jcFsC/44644ef1060f.jpg",
+    "coverImage2": "https://i.ibb.co/whXFrHX3/1b98dd0b6b9f.png",
+    "images": [
+      "https://i.ibb.co/dsySNxvx/899bf428babc.jpg",
+      "https://i.ibb.co/FL5P2PRs/95c8f76c4dde.png",
+      "https://i.ibb.co/DfTqqdDz/684570e158e5.jpg",
+      "https://i.ibb.co/zV9LSsVb/205baff20d62.jpg",
+      "https://i.ibb.co/M5s84cfP/c844bed9e70f.jpg"
+    ]
+  },
+  {
+    "id": "67",
+    "title": "Battlefield™ 1 Revolution",
+    "url": "https://store.epicgames.com/p/battlefield-1-124758",
+    "developer": "DICE",
+    "publisher": "Electronic Arts",
+    "releaseDate": "08/21/17",
+    "platform": "Windows",
+    "genres": [
+      "First Person",
+      "Shooter"
+    ],
+    "features": [
+      "Online Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.6",
+    "discount": "-95%",
+    "oldPrice": "$39.99",
+    "newPrice": "$1.99",
+    "category": "most-popular",
+    "slug": "battlefield-1-revolution",
+    "coverImage": "https://i.ibb.co/mC13y977/a5785909c4eb.jpg",
+    "coverImage2": "https://i.ibb.co/Ldb0NrdD/8712f3092df3.png",
+    "images": [
+      "https://i.ibb.co/33KjTbS/42087d5f3667.jpg",
+      "https://i.ibb.co/G4m7GK7Z/8167c2e18ac4.jpg",
+      "https://i.ibb.co/zWTTrmjV/1f86c550bae0.jpg",
+      "https://i.ibb.co/6RmGDXzQ/f5b935bf668e.jpg",
+      "https://i.ibb.co/32Gdt8r/ae5f458f3c46.jpg"
+    ]
+  },
+  {
+    "id": "68",
+    "title": "Battlefield™ 6",
+    "url": "https://store.epicgames.com/p/battlefield-6",
+    "developer": "Battlefield Studios",
+    "publisher": "Electronic Arts",
+    "releaseDate": "10/10/25",
+    "platform": "Windows",
+    "genres": [
+      "First Person",
+      "Shooter"
+    ],
+    "features": [
+      "Achievements",
+      "Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.5",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": "most-popular",
+    "slug": "battlefield-6",
+    "coverImage": "https://i.ibb.co/JFFrVJx5/73b16c2eb1c0.jpg",
+    "coverImage2": "https://i.ibb.co/wFXjF1V2/52aa2461392d.png",
+    "images": [
+      "https://i.ibb.co/DfRrfjnK/a93b8621ad49.jpg",
+      "https://i.ibb.co/TxhKmYNC/0e3b468d8577.jpg",
+      "https://i.ibb.co/PGpkn0yT/1f1884f8dabc.jpg",
+      "https://i.ibb.co/pvw77SMK/fd6b0571c385.jpg",
+      "https://i.ibb.co/m5kxrjmD/5169347791ba.jpg"
+    ]
+  },
+  {
+    "id": "69",
+    "title": "BeamNG.drive",
+    "url": "https://store.epicgames.com/p/beamngdrive-7f5f3a",
+    "developer": "BeamNG",
+    "publisher": "BeamNG",
+    "releaseDate": "05/29/15",
+    "platform": "Windows",
+    "genres": [
+      "Racing",
+      "Simulation"
+    ],
+    "features": [
+      "Controller Support",
+      "Single Player"
+    ],
+    "playerRating": "4.7",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$11.19",
+    "category": "most-popular",
+    "slug": "beamngdrive",
+    "coverImage": "https://i.ibb.co/rKhXykS5/1055d7425c0c.png",
+    "coverImage2": "https://i.ibb.co/j9LLQTd5/66d7ff08802f.png",
+    "images": [
+      "https://i.ibb.co/k6KZ60rQ/68979568fd16.png",
+      "https://i.ibb.co/ycb2DHFQ/669b6696faa3.jpg",
+      "https://i.ibb.co/G4HmgrxG/9d8fa17d1611.png",
+      "https://i.ibb.co/hqQDwhb/fd48405f6992.png",
+      "https://i.ibb.co/YTytDtbH/a17ab8f5f465.png"
+    ]
+  },
+  {
+    "id": "70",
+    "title": "Bloons TD 6",
+    "url": "https://store.epicgames.com/p/bloons-td-6-bf95a0",
+    "developer": "Ninja Kiwi",
+    "publisher": "Ninja Kiwi",
+    "releaseDate": "07/19/22",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Co-op",
+      "Cross Platform",
+      "Online Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.8",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$6.99",
+    "category": "most-popular",
+    "slug": "bloons-td-6",
+    "coverImage": "https://i.ibb.co/7th7nyLp/c36a1bf1c995.jpg",
+    "coverImage2": "https://i.ibb.co/rRhLP4T3/7d9cae77b8c7.png",
+    "images": [
+      "https://i.ibb.co/B5zLDVzp/629294108ac0.png",
+      "https://i.ibb.co/S464zZ2X/679eb0150706.png",
+      "https://i.ibb.co/KYt9wFT/a3b250b420e9.png",
+      "https://i.ibb.co/9k9tYr6g/d806f384b58f.png",
+      "https://i.ibb.co/j9z8B33M/6e9c3a4f40f6.png"
+    ]
+  },
+  {
+    "id": "72",
+    "title": "Chivalry 2",
+    "url": "https://store.epicgames.com/p/chivalry-2",
+    "developer": "Torn Banner Studios",
+    "publisher": "Tripwire Interactive",
+    "releaseDate": "06/08/21",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "First Person"
+    ],
+    "features": [
+      "Controller Support",
+      "Multiplayer"
+    ],
+    "playerRating": "4.5",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$20.99",
+    "category": "most-popular",
+    "slug": "chivalry-2",
+    "coverImage": "https://i.ibb.co/DfmqDRGw/51dc88b038bd.jpg",
+    "coverImage2": "https://i.ibb.co/gL33T8tx/5034767edf4f.png",
+    "images": [
+      "https://i.ibb.co/qMnkrcsr/4b30a9020e36.jpg",
+      "https://i.ibb.co/0VdBVvX1/9a519498ea14.jpg",
+      "https://i.ibb.co/MktCDcmM/3d2f1f37d960.jpg",
+      "https://i.ibb.co/jk0k7HNS/de5d63b83338.jpg",
+      "https://i.ibb.co/hFP5hvf6/17009de90a6a.jpg"
+    ]
+  },
+  {
+    "id": "73",
+    "title": "Cities: Skylines",
+    "url": "https://store.epicgames.com/p/cities-skylines",
+    "developer": "Colossal Order",
+    "publisher": "Paradox Interactive",
+    "releaseDate": "12/17/20",
+    "platform": "Windows",
+    "genres": [
+      "City Builder",
+      "Simulation"
+    ],
+    "features": [
+      "Achievements",
+      "Cloud Saves",
+      "Single Player"
+    ],
+    "playerRating": "4.7",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$19.99",
+    "category": "most-popular",
+    "slug": "cities-skylines",
+    "coverImage": "https://i.ibb.co/1Yvxj8hz/c5746cedd5e2.jpg",
+    "coverImage2": "https://i.ibb.co/xq4zKKM9/0d7a5e4f655a.png",
+    "images": [
+      "https://i.ibb.co/fGQ4fSqj/1ff49720aa49.jpg",
+      "https://i.ibb.co/tPk0z785/d69150e8de2f.jpg",
+      "https://i.ibb.co/dJPsMNRZ/dbeac8bda63d.jpg",
+      "https://i.ibb.co/xKqr9hcf/c76878e226b9.jpg",
+      "https://i.ibb.co/x8Kgq1YG/4bf5d8290f59.jpg"
+    ]
+  },
+  {
+    "id": "78",
+    "title": "Dying Light Definitive Edition",
+    "url": "https://store.epicgames.com/p/dying-light--definitive-edition",
+    "developer": "Techland",
+    "publisher": "Techland",
+    "releaseDate": "06/09/22",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Open World",
+      "RPG"
+    ],
+    "features": [
+      "Features:"
+    ],
+    "playerRating": "4.6",
+    "discount": "-80%",
+    "oldPrice": "$17.99",
+    "newPrice": "$3.59",
+    "category": "most-popular",
+    "slug": "dying-light-definitive-edition",
+    "coverImage": "https://i.ibb.co/Nd8p7wPj/0b1e40a7984a.jpg",
+    "coverImage2": "https://i.ibb.co/9mPWs2nt/7a6be7f15ef4.png",
+    "images": [
+      "https://i.ibb.co/fGDT6ywd/191ba834e905.jpg",
+      "https://i.ibb.co/Q7YQnbpf/36df9c3f5e6f.jpg",
+      "https://i.ibb.co/kVnWC1CR/f5c3c9ab812c.jpg",
+      "https://i.ibb.co/1fWcg1Gg/8419be571f6a.jpg",
+      "https://i.ibb.co/vCtWYpdj/06cb0aa1d2ad.jpg"
+    ]
+  },
+  {
+    "id": "79",
+    "title": "EA SPORTS FC™ 25 Standard Edition",
+    "url": "https://store.epicgames.com/p/ea-sports-fc-25",
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "releaseDate": "09/27/24",
+    "platform": "Windows",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "features": [
+      "Co-op",
+      "Controller Support",
+      "Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.3",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": "most-popular",
+    "slug": "ea-sports-fc-25-standard-edition",
+    "coverImage": "https://i.ibb.co/wFLprcgq/3e317d4d807e.jpg",
+    "coverImage2": "https://i.ibb.co/svVNBGTz/182e40571ad7.png",
+    "images": [
+      "https://i.ibb.co/93VYJszP/2db2775be48d.jpg",
+      "https://i.ibb.co/F4FNFFLB/926fe52549d9.jpg",
+      "https://i.ibb.co/mCmGJy3s/82782cb4daf1.jpg",
+      "https://i.ibb.co/B59B6k7t/22d6c42eda8f.jpg",
+      "https://i.ibb.co/B5XNjZK6/0cfdf5ee1479.jpg"
+    ]
+  },
+  {
+    "id": "80",
+    "title": "EA SPORTS FC™ 26 ICONS Edition",
+    "url": "https://store.epicgames.com/p/ea-sports-fc-26--icons-edition",
+    "developer": "EA CANADA",
+    "publisher": "Electronic Arts",
+    "releaseDate": "04/07/26",
+    "platform": "Windows",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "features": [
+      "Co-op",
+      "Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.1",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$89.99",
+    "category": "most-popular",
+    "slug": "ea-sports-fc-26-icons-edition",
+    "coverImage": "https://i.ibb.co/pBrCKFfn/fe3d1101d2b4.jpg",
+    "coverImage2": "https://i.ibb.co/Ndw4zrGr/b48120af5edd.png",
+    "images": [
+      "https://i.ibb.co/0pyF6v1w/2b6ee15a5b00.jpg",
+      "https://i.ibb.co/bgQQ1SJw/8483ca1b38d6.jpg",
+      "https://i.ibb.co/zhZN3m3q/002e726e42a2.jpg",
+      "https://i.ibb.co/jPNQD0Xm/cb15b57bce9b.jpg"
+    ]
+  },
+  {
+    "id": "82",
+    "title": "Farming Simulator 22",
+    "url": "https://store.epicgames.com/p/farming-simulator-22",
+    "developer": "GIANTS Software",
+    "publisher": "GIANTS Software",
+    "releaseDate": "11/22/21",
+    "platform": "Windows",
+    "genres": [
+      "Simulation"
+    ],
+    "features": [
+      "Cloud Saves",
+      "Co-op",
+      "Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.6",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$29.99",
+    "category": "most-popular",
+    "slug": "farming-simulator-22",
+    "coverImage": "https://i.ibb.co/7dmLDq9L/fbf840661f17.jpg",
+    "coverImage2": "https://i.ibb.co/zh4WmFtB/e2fb4f683a96.png",
+    "images": [
+      "https://i.ibb.co/FLWFYVQN/72b481d56529.jpg",
+      "https://i.ibb.co/zT4vfYJx/a30206316687.jpg",
+      "https://i.ibb.co/3mtLmHp9/98539cf50d0b.jpg",
+      "https://i.ibb.co/jZPb43FR/5d45b326317a.jpg",
+      "https://i.ibb.co/ymN8h5CV/0726e97eecc7.jpg"
+    ]
+  },
+  {
+    "id": "83",
+    "title": "Farming Simulator 25",
+    "url": "https://store.epicgames.com/p/farming-simulator-25-917e48",
+    "developer": "GIANTS Software GmbH",
+    "publisher": "GIANTS Software GmbH",
+    "releaseDate": "11/12/24",
+    "platform": "Windows",
+    "genres": [
+      "Simulation"
+    ],
+    "features": [
+      "Co-op",
+      "Controller Support",
+      "Cross Platform",
+      "Online Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.6",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$19.49",
+    "category": "most-popular",
+    "slug": "farming-simulator-25",
+    "coverImage": "https://i.ibb.co/JwgRpJL6/67a28f2e9c1f.jpg",
+    "coverImage2": "https://i.ibb.co/9QB28Hb/868eb02e6fd0.png",
+    "images": [
+      "https://i.ibb.co/DP04ftHH/8ed27816d429.jpg",
+      "https://i.ibb.co/1YzvZZnQ/bf14f185517b.jpg",
+      "https://i.ibb.co/WN22Kgsp/e71e679d0d46.jpg",
+      "https://i.ibb.co/LDXVCk2J/546aea99503e.jpg",
+      "https://i.ibb.co/5h0tgVNn/bf437704c24f.jpg"
+    ]
+  },
+  {
+    "id": "84",
+    "title": "Football Manager 26",
+    "url": "https://store.epicgames.com/p/football-manager-26-080e85",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "releaseDate": "11/04/25",
+    "platform": "Windows",
+    "genres": [
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "features": [
+      "Online Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "3.6",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$49.99",
+    "category": "most-popular",
+    "slug": "football-manager-26",
+    "coverImage": "https://i.ibb.co/DHXKmNYQ/f556c4771973.jpg",
+    "coverImage2": "https://i.ibb.co/QvdX2zJb/0749c07253a2.png",
+    "images": [
+      "https://i.ibb.co/ynkycPNz/1bea19bb1034.png",
+      "https://i.ibb.co/4wg0RHnq/76219f200c2a.jpg",
+      "https://i.ibb.co/gLLwBxrR/40ed2c97a205.jpg",
+      "https://i.ibb.co/hxWWG8V6/ba0b56f2186d.jpg",
+      "https://i.ibb.co/Y4Q0wnW0/109892253173.jpg"
+    ]
+  },
+  {
+    "id": "85",
+    "title": "Grand Theft Auto V Enhanced",
+    "url": "https://store.epicgames.com/p/grand-theft-auto-v",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "releaseDate": "03/04/25",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "features": [
+      "Achievements",
+      "Co-op",
+      "Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.7",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$29.99",
+    "category": "most-popular",
+    "slug": "grand-theft-auto-v-enhanced",
+    "coverImage": "https://i.ibb.co/PZwJzRjg/af1bc23a390b.jpg",
+    "coverImage2": "https://i.ibb.co/d4BPyQZ9/245f2c34e3c1.png",
+    "images": [
+      "https://i.ibb.co/wZGTLPYC/5d2c4b2f140f.jpg"
+    ]
+  },
+  {
+    "id": "86",
+    "title": "Hell Let Loose - Deluxe Edition",
+    "url": "https://store.epicgames.com/p/hell-let-loose-hell-let-loose-deluxe-edition-abe756",
+    "developer": "Team17",
+    "publisher": "Team17",
+    "releaseDate": "07/27/21",
+    "platform": "Windows",
+    "genres": [
+      "First Person",
+      "Shooter"
+    ],
+    "features": [
+      "Achievements",
+      "Competitive",
+      "Online Multiplayer"
+    ],
+    "playerRating": "4.5",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$33.99",
+    "category": "most-popular",
+    "slug": "hell-let-loose-deluxe-edition",
+    "coverImage": "https://i.ibb.co/cKBWYS0G/3136c140a290.jpg",
+    "coverImage2": "https://i.ibb.co/JRS8zS31/86439becfbef.jpg",
+    "images": [
+      "https://i.ibb.co/JYK0NN1/5d6893f38d70.jpg",
+      "https://i.ibb.co/wrS5B5CT/83faee28aa54.jpg",
+      "https://i.ibb.co/Z1v4KBLd/34f9d6e5354d.jpg"
+    ]
+  },
+  {
+    "id": "87",
+    "title": "HITMAN World of Assassination Deluxe Edition",
+    "url": "https://store.epicgames.com/p/hitman-3--woa-deluxe-edition",
+    "developer": "IO Interactive A/S",
+    "publisher": "IO Interactive A/S",
+    "releaseDate": "12/05/23",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Stealth"
+    ],
+    "features": [
+      "Achievements",
+      "Cloud Saves",
+      "Controller Support",
+      "Single Player",
+      "VR"
+    ],
+    "playerRating": "4.7",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$44.99",
+    "category": "most-popular",
+    "slug": "hitman-world-of-assassination-deluxe-edition",
+    "coverImage": "https://i.ibb.co/0j3VQPMm/164d4422dffb.jpg",
+    "coverImage2": "https://i.ibb.co/Csvx69f4/71c6beb8290f.png",
+    "images": [
+      "https://i.ibb.co/QFtLBHpq/27a28657a51d.jpg",
+      "https://i.ibb.co/GfZg8wB3/9ee63bb5964a.jpg",
+      "https://i.ibb.co/LXfK7V7x/10746c97dcfb.jpg",
+      "https://i.ibb.co/YT1DdHT4/eddf76d16f13.jpg",
+      "https://i.ibb.co/wZSYwKHz/44bd5ed201b4.jpg"
+    ]
+  },
+  {
+    "id": "89",
+    "title": "Isonzo",
+    "url": "https://store.epicgames.com/p/isonzo",
+    "developer": "BlackMill Games",
+    "publisher": "BlackMill Games",
+    "releaseDate": "09/13/22",
+    "platform": "Cloud Saves",
+    "genres": [
+      "Action",
+      "Shooter",
+      "Strategy"
+    ],
+    "features": [
+      "Cloud Saves",
+      "Co-op",
+      "Controller Support",
+      "Cross Platform",
+      "Online Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.4",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$15.99",
+    "category": "most-popular",
+    "slug": "isonzo",
+    "coverImage": "https://i.ibb.co/0y3FNypD/9b5260a2e549.jpg",
+    "coverImage2": "https://i.ibb.co/ZpvrQqgq/0b1a8912e78a.png",
+    "images": [
+      "https://i.ibb.co/zCWhFvC/fcf9a9f4aa0f.jpg",
+      "https://i.ibb.co/yn5LxrcK/2619a1b56d89.jpg",
+      "https://i.ibb.co/9kWMRbmr/c58130772957.jpg",
+      "https://i.ibb.co/yc067jTD/34d657c3012c.jpg",
+      "https://i.ibb.co/PGv62MHG/b75a784f0298.jpg"
+    ]
+  },
+  {
+    "id": "90",
+    "title": "Jurassic World Evolution 2",
+    "url": "https://store.epicgames.com/p/jurassic-world-evolution-2",
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "releaseDate": "11/09/21",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Cloud Saves",
+      "Single Player"
+    ],
+    "playerRating": "4.7",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$27.99",
+    "category": "most-popular",
+    "slug": "jurassic-world-evolution-2",
+    "coverImage": "https://i.ibb.co/rG0nTvsh/ddcf1077911e.jpg",
+    "coverImage2": "https://i.ibb.co/1fRvp6yG/9ab3842e0a0d.png",
+    "images": [
+      "https://i.ibb.co/k2pTDFqH/ad7431251b34.jpg",
+      "https://i.ibb.co/gZKq1839/762f922deb5b.jpg",
+      "https://i.ibb.co/yL9BHBD/6fdd5c3362e1.jpg",
+      "https://i.ibb.co/NdrsH8Lg/63d1f01cd2db.jpg",
+      "https://i.ibb.co/PsjMC57Z/aec896f33610.jpg"
+    ]
+  },
+  {
+    "id": "91",
+    "title": "Kerbal Space Program",
+    "url": "https://store.epicgames.com/p/kerbal-space-program",
+    "developer": "Squad",
+    "publisher": "The Kerbal Company",
+    "releaseDate": "04/27/15",
+    "platform": "Windows",
+    "genres": [
+      "Simulation"
+    ],
+    "features": [
+      "–"
+    ],
+    "playerRating": "4.8",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$19.99",
+    "category": "most-popular",
+    "slug": "kerbal-space-program",
+    "coverImage": "https://i.ibb.co/C3vmnVqp/f6ebf3f99ace.jpg",
+    "coverImage2": "https://i.ibb.co/bj6WcZHz/f27f02b1c638.png",
+    "images": [
+      "https://i.ibb.co/qLMXV9BP/21cf83a36414.jpg",
+      "https://i.ibb.co/nMpQRsB5/f3ba7d781a34.jpg",
+      "https://i.ibb.co/kVwFFZrh/51e1f38ad109.jpg",
+      "https://i.ibb.co/R4TNq3Ym/b034ae8c2c9e.jpg",
+      "https://i.ibb.co/BKqgPdjC/7e6bb143a312.jpg"
+    ]
+  },
+  {
+    "id": "92",
+    "title": "League of Legends",
+    "url": "https://store.epicgames.com/p/league-of-legends",
+    "developer": "Riot Games",
+    "publisher": "Riot Games",
+    "releaseDate": "10/27/09",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "RPG",
+      "Strategy"
+    ],
+    "features": [
+      "Co-op",
+      "Competitive",
+      "Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.2",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "Free",
+    "category": "most-popular",
+    "slug": "league-of-legends",
+    "coverImage": "https://i.ibb.co/jvxdNFy6/17ad63a4a33e.jpg",
+    "coverImage2": "https://i.ibb.co/pj7yVvMz/910a9435a877.png",
+    "images": [
+      "https://i.ibb.co/VWJbfV47/a5426f080140.jpg",
+      "https://i.ibb.co/LhqRk4yg/b3a3819c91ee.jpg",
+      "https://i.ibb.co/fGGnWBXM/9560ebe377a4.jpg",
+      "https://i.ibb.co/1JT0CFGV/a72276729173.jpg",
+      "https://i.ibb.co/HpBxnF3m/7228465f7f75.jpg"
+    ]
+  },
+  {
+    "id": "93",
+    "title": "Magic: The Gathering Arena",
+    "url": "https://store.epicgames.com/p/mtg-arena",
+    "developer": "Wizards of the Coast",
+    "publisher": "Wizards of the Coast",
+    "releaseDate": "01/16/20",
+    "platform": "Windows",
+    "genres": [
+      "Card Game",
+      "Strategy"
+    ],
+    "features": [
+      "Competitive",
+      "Multiplayer"
+    ],
+    "playerRating": "4.5",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "Free",
+    "category": "most-popular",
+    "slug": "magic-the-gathering-arena",
+    "coverImage": "https://i.ibb.co/mCJWNybZ/9fd3568aaa9f.jpg",
+    "coverImage2": "https://i.ibb.co/GvdNBQz3/a45e4bd6671f.png",
+    "images": [
+      "https://i.ibb.co/k25Q5t5F/23c9b71e1eed.jpg",
+      "https://i.ibb.co/GvB95tBx/19d632023210.jpg",
+      "https://i.ibb.co/ymxFGZYD/b517b0706fa8.jpg",
+      "https://i.ibb.co/rfNWKfGh/aef86312b0a9.jpg",
+      "https://i.ibb.co/7x7hMgn0/41b17bbfae51.jpg"
+    ]
+  },
+  {
+    "id": "94",
+    "title": "Marvel Rivals",
+    "url": "https://store.epicgames.com/p/marvel-rivals-182004",
+    "developer": "NetEase Games",
+    "publisher": "NetEase Games",
+    "releaseDate": "12/06/24",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "features": [
+      "Co-op",
+      "Competitive",
+      "Online Multiplayer"
+    ],
+    "playerRating": "4.6",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "Free",
+    "category": "most-popular",
+    "slug": "marvel-rivals",
+    "coverImage": "https://i.ibb.co/vFp8dmV/a931ff63bc7c.png",
+    "coverImage2": "https://i.ibb.co/tTPxLPpj/01a0833c69f1.png",
+    "images": [
+      "https://i.ibb.co/ynjt9Nzw/b8a3d51c5a76.jpg",
+      "https://i.ibb.co/sJsGrRgz/79d347483d9d.jpg",
+      "https://i.ibb.co/DfCqYWkd/0f222ab2ec93.jpg",
+      "https://i.ibb.co/zWfSGQRw/db55cbb0e6b8.jpg",
+      "https://i.ibb.co/wZQ1G6X4/d217cabee77b.jpg"
+    ]
+  },
+  {
+    "id": "95",
+    "title": "NARAKA: BLADEPOINT",
+    "url": "https://store.epicgames.com/p/naraka-bladepoint",
+    "developer": "24 Entertainment",
+    "publisher": "NetEase Montreal",
+    "releaseDate": "08/11/21",
+    "platform": "Windows",
+    "genres": [
+      "Action"
+    ],
+    "features": [
+      "Competitive",
+      "Cross Platform",
+      "Online Multiplayer"
+    ],
+    "playerRating": "4.2",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "Free",
+    "category": "most-popular",
+    "slug": "naraka-bladepoint",
+    "coverImage": "https://i.ibb.co/LzR06Vqm/fa16b2f40141.jpg",
+    "coverImage2": "https://i.ibb.co/JRCT8pkJ/c315cf20368c.png",
+    "images": [
+      "https://i.ibb.co/B2rv721J/6738e953ef6f.jpg",
+      "https://i.ibb.co/ZR2bZXqK/e9fbfeb8f390.png",
+      "https://i.ibb.co/ymGHqW9G/eaeba4a1bce9.jpg",
+      "https://i.ibb.co/V0bVVzb6/29ca3158cb11.jpg",
+      "https://i.ibb.co/7DQ7JqP/d8bb64a3318d.jpg"
+    ]
+  },
+  {
+    "id": "96",
+    "title": "Oddsparks: An Automation Adventure",
+    "url": "https://store.epicgames.com/p/oddsparks-58440c",
+    "developer": "Massive Miniteam",
+    "publisher": "HandyGames",
+    "releaseDate": "04/24/24",
+    "platform": "Windows",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "features": [
+      "Cloud Saves",
+      "Co-op",
+      "Online Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.5",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$14.99",
+    "category": "most-popular",
+    "slug": "oddsparks-an-automation-adventure",
+    "coverImage": "https://i.ibb.co/zhjQzk4C/d09f25a94562.png",
+    "coverImage2": "https://i.ibb.co/0pxwvqzW/54a363f1b34b.png",
+    "images": [
+      "https://i.ibb.co/DHbjdWTt/b2b2a614745f.jpg",
+      "https://i.ibb.co/7fG4mrW/09d309591731.jpg",
+      "https://i.ibb.co/gZmDwLN3/5c9162c9332b.jpg",
+      "https://i.ibb.co/NdpKmrnq/a9ddb115b5aa.jpg",
+      "https://i.ibb.co/fzK1kjTV/c3b87d8cf5b7.jpg"
+    ]
+  },
+  {
+    "id": "98",
+    "title": "Red Dead Redemption 2",
+    "url": "https://store.epicgames.com/p/red-dead-redemption-2",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "releaseDate": "11/05/19",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Narration",
+      "Open World"
+    ],
+    "features": [
+      "Single Player"
+    ],
+    "playerRating": "4.9",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$59.99",
+    "category": "most-popular",
+    "slug": "red-dead-redemption-2",
+    "coverImage": "https://i.ibb.co/F48LzzKG/803e94979e6f.jpg",
+    "coverImage2": "https://i.ibb.co/Ng06nbmL/a3e077c51fec.png",
+    "images": [
+      "https://i.ibb.co/VpNn3vvC/5ca25f4b682f.jpg",
+      "https://i.ibb.co/Zz4rJXf5/cffc89190437.jpg",
+      "https://i.ibb.co/PG8SDGSB/be9cd618337e.jpg",
+      "https://i.ibb.co/Pv81RFhH/fd6c72789ebe.jpg",
+      "https://i.ibb.co/Tq4YkdJ1/23084cde10a4.jpg"
+    ]
+  }
+]

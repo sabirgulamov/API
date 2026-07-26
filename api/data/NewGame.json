@@ -1,0 +1,527 @@
+[
+  {
+    "id": "101",
+    "title": "Assassin's Creed Black Flag Resynced",
+    "url": "https://store.epicgames.com/en-US/p/assassins-creed-black-flag-resynced",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "releaseDate": "12/04/25",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "features": [
+      "Single Player",
+      "Controller Support"
+    ],
+    "playerRating": "N/A",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$59.99",
+    "category": [
+      "Aksiyon",
+      "Macera",
+      "Açık Dünya"
+    ],
+    "slug": "assassins-creed-black-flag-resynced",
+    "coverImage": "https://i.ibb.co/placeholder/acbf-resynced.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "102",
+    "title": "EA SPORTS™ College Football 27",
+    "url": "https://store.epicgames.com/en-US/p/ea-sports-college-football-27",
+    "developer": "EA Orlando",
+    "publisher": "Electronic Arts",
+    "releaseDate": "07/10/26",
+    "platform": "Windows",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "features": [
+      "Online Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "N/A",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": [
+      "Simülasyon",
+      "Spor"
+    ],
+    "slug": "ea-sports-college-football-27",
+    "coverImage": "https://i.ibb.co/placeholder/cfb27.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "103",
+    "title": "Resident Evil Requiem",
+    "url": "https://store.epicgames.com/en-US/p/resident-evil-requiem",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "releaseDate": "02/27/26",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Horror",
+      "Survival"
+    ],
+    "features": [
+      "Single Player",
+      "Achievements"
+    ],
+    "playerRating": "N/A",
+    "discount": "-20%",
+    "oldPrice": "$52.49",
+    "newPrice": "$41.99",
+    "category": [
+      "Aksiyon",
+      "Korku",
+      "Hayatta Kalma"
+    ],
+    "slug": "resident-evil-requiem",
+    "coverImage": "https://i.ibb.co/placeholder/re-requiem.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "104",
+    "title": "007 First Light",
+    "url": "https://store.epicgames.com/en-US/p/007-first-light",
+    "developer": "IO Interactive",
+    "publisher": "IO Interactive",
+    "releaseDate": "03/27/26",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Stealth"
+    ],
+    "features": [
+      "Single Player",
+      "Cloud Saves"
+    ],
+    "playerRating": "N/A",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$39.99",
+    "category": [
+      "Aksiyon",
+      "Macera",
+      "Gizlilik"
+    ],
+    "slug": "007-first-light",
+    "coverImage": "https://i.ibb.co/placeholder/007-first-light.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "105",
+    "title": "Crimson Desert",
+    "url": "https://store.epicgames.com/en-US/p/crimson-desert",
+    "developer": "Pearl Abyss",
+    "publisher": "Pearl Abyss",
+    "releaseDate": "03/19/26",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "features": [
+      "Single Player",
+      "Controller Support"
+    ],
+    "playerRating": "N/A",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": [
+      "Aksiyon",
+      "Macera",
+      "Açık Dünya"
+    ],
+    "slug": "crimson-desert",
+    "coverImage": "https://i.ibb.co/placeholder/crimson-desert.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "106",
+    "title": "DEATH STRANDING 2: ON THE BEACH",
+    "url": "https://store.epicgames.com/en-US/p/death-stranding-2-on-the-beach",
+    "developer": "Kojima Productions",
+    "publisher": "PlayStation PC LLC",
+    "releaseDate": "01/22/26",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "features": [
+      "Single Player",
+      "Achievements"
+    ],
+    "playerRating": "N/A",
+    "discount": "-20%",
+    "oldPrice": "$69.99",
+    "newPrice": "$55.99",
+    "category": [
+      "Aksiyon",
+      "Macera",
+      "Açık Dünya"
+    ],
+    "slug": "death-stranding-2-on-the-beach",
+    "coverImage": "https://i.ibb.co/placeholder/ds2.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "107",
+    "title": "Grand Theft Auto VI",
+    "url": "https://store.epicgames.com/en-US/p/grand-theft-auto-vi",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "releaseDate": "11/19/26",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "features": [
+      "Single Player",
+      "Online Multiplayer"
+    ],
+    "playerRating": "N/A",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$79.99",
+    "category": [
+      "Aksiyon",
+      "Macera",
+      "Açık Dünya"
+    ],
+    "slug": "grand-theft-auto-vi",
+    "coverImage": "https://i.ibb.co/placeholder/gta6.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "108",
+    "title": "Metal Gear Solid Δ: Snake Eater",
+    "url": "https://store.epicgames.com/en-US/p/metal-gear-solid-delta-snake-eater",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "releaseDate": "08/28/25",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Stealth"
+    ],
+    "features": [
+      "Single Player",
+      "Achievements"
+    ],
+    "playerRating": "4.7",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": [
+      "Aksiyon",
+      "Macera",
+      "Gizlilik"
+    ],
+    "slug": "metal-gear-solid-delta-snake-eater",
+    "coverImage": "https://i.ibb.co/placeholder/mgs-delta.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "109",
+    "title": "Borderlands 4",
+    "url": "https://store.epicgames.com/en-US/p/borderlands-4",
+    "developer": "Gearbox Software",
+    "publisher": "2K",
+    "releaseDate": "09/12/25",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "RPG",
+      "Shooter"
+    ],
+    "features": [
+      "Co-op",
+      "Online Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.3",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": [
+      "Aksiyon",
+      "RYO",
+      "Nişancı"
+    ],
+    "slug": "borderlands-4",
+    "coverImage": "https://i.ibb.co/placeholder/borderlands4.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "110",
+    "title": "DOOM: The Dark Ages",
+    "url": "https://store.epicgames.com/en-US/p/doom-the-dark-ages",
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "releaseDate": "05/15/25",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "features": [
+      "Single Player",
+      "Achievements"
+    ],
+    "playerRating": "4.6",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": [
+      "Aksiyon",
+      "Nişancı"
+    ],
+    "slug": "doom-the-dark-ages",
+    "coverImage": "https://i.ibb.co/placeholder/doom-dark-ages.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "111",
+    "title": "Fable",
+    "url": "https://store.epicgames.com/en-US/p/fable-2026",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "releaseDate": "04/21/26",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "features": [
+      "Single Player",
+      "Cloud Saves"
+    ],
+    "playerRating": "N/A",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": [
+      "Aksiyon",
+      "Macera",
+      "RYO"
+    ],
+    "slug": "fable-2026",
+    "coverImage": "https://i.ibb.co/placeholder/fable.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "112",
+    "title": "Elden Ring Nightreign",
+    "url": "https://store.epicgames.com/en-US/p/elden-ring-nightreign",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco",
+    "releaseDate": "05/30/25",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "features": [
+      "Co-op",
+      "Online Multiplayer"
+    ],
+    "playerRating": "4.4",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$39.99",
+    "category": [
+      "Aksiyon",
+      "RYO"
+    ],
+    "slug": "elden-ring-nightreign",
+    "coverImage": "https://i.ibb.co/placeholder/nightreign.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "113",
+    "title": "South of Midnight",
+    "url": "https://store.epicgames.com/en-US/p/south-of-midnight",
+    "developer": "Compulsion Games",
+    "publisher": "Xbox Game Studios",
+    "releaseDate": "04/08/25",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer"
+    ],
+    "features": [
+      "Single Player",
+      "Controller Support"
+    ],
+    "playerRating": "4.3",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$49.99",
+    "category": [
+      "Aksiyon",
+      "Macera",
+      "Platform"
+    ],
+    "slug": "south-of-midnight",
+    "coverImage": "https://i.ibb.co/placeholder/south-of-midnight.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "114",
+    "title": "Split Fiction",
+    "url": "https://store.epicgames.com/en-US/p/split-fiction",
+    "developer": "Hazelight Studios",
+    "publisher": "Electronic Arts",
+    "releaseDate": "03/06/25",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "features": [
+      "Co-op",
+      "Split Screen"
+    ],
+    "playerRating": "4.8",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$49.99",
+    "category": [
+      "Aksiyon",
+      "Macera"
+    ],
+    "slug": "split-fiction",
+    "coverImage": "https://i.ibb.co/placeholder/split-fiction.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "115",
+    "title": "Monster Hunter Wilds",
+    "url": "https://store.epicgames.com/en-US/p/monster-hunter-wilds",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "releaseDate": "02/28/25",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "features": [
+      "Co-op",
+      "Online Multiplayer",
+      "Single Player"
+    ],
+    "playerRating": "4.5",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": [
+      "Aksiyon",
+      "RYO"
+    ],
+    "slug": "monster-hunter-wilds",
+    "coverImage": "https://i.ibb.co/placeholder/mh-wilds.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "116",
+    "title": "Sid Meier's Civilization VII",
+    "url": "https://store.epicgames.com/en-US/p/civilization-vii",
+    "developer": "Firaxis Games",
+    "publisher": "2K",
+    "releaseDate": "02/11/25",
+    "platform": "Windows",
+    "genres": [
+      "Strategy"
+    ],
+    "features": [
+      "Single Player",
+      "Online Multiplayer"
+    ],
+    "playerRating": "4.1",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$69.99",
+    "category": [
+      "Strateji"
+    ],
+    "slug": "civilization-vii",
+    "coverImage": "https://i.ibb.co/placeholder/civ7.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "117",
+    "title": "Judas",
+    "url": "https://store.epicgames.com/en-US/p/judas",
+    "developer": "Ghost Story Games",
+    "publisher": "Ghost Story Games",
+    "releaseDate": "06/18/26",
+    "platform": "Windows",
+    "genres": [
+      "Action",
+      "First Person",
+      "Shooter"
+    ],
+    "features": [
+      "Single Player"
+    ],
+    "playerRating": "N/A",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$59.99",
+    "category": [
+      "Aksiyon",
+      "Birinci Şahıs",
+      "Nişancı"
+    ],
+    "slug": "judas",
+    "coverImage": "https://i.ibb.co/placeholder/judas.jpg",
+    "section": "new-releases"
+  },
+  {
+    "id": "118",
+    "title": "Silent Hill f",
+    "url": "https://store.epicgames.com/en-US/p/silent-hill-f",
+    "developer": "NeoBards Entertainment",
+    "publisher": "Konami",
+    "releaseDate": "09/25/25",
+    "platform": "Windows",
+    "genres": [
+      "Horror",
+      "Survival"
+    ],
+    "features": [
+      "Single Player",
+      "Achievements"
+    ],
+    "playerRating": "4.4",
+    "discount": null,
+    "oldPrice": null,
+    "newPrice": "$59.99",
+    "category": [
+      "Korku",
+      "Hayatta Kalma"
+    ],
+    "slug": "silent-hill-f",
+    "coverImage": "https://i.ibb.co/placeholder/silent-hill-f.jpg",
+    "section": "new-releases"
+  }
+]

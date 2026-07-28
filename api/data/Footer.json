@@ -1,7 +1,7 @@
 {
   "footer": [
     {
-      "title": "Oyunlar",
+      "title": "Games",
       "links": [
         { "label": "Fortnite", "url": "" },
         { "label": "Fall Guys", "url": "" },
@@ -13,20 +13,20 @@
       ]
     },
     {
-      "title": "Pazaryerləri",
+      "title": "Marketplaces",
       "links": [
         { "label": "Epic Games Store", "url": "" },
         { "label": "Fab", "url": "" },
-        { "label": "Fab'de Quixel Megascans", "url": "" },
-        { "label": "Fab'de Quixel Megaplants", "url": "" },
+        { "label": "Quixel Megascans on Fab", "url": "" },
+        { "label": "Quixel Megaplants on Fab", "url": "" },
         { "label": "Sketchfab", "url": "" },
         { "label": "ArtStation", "url": "" },
-        { "label": "Mağaza İade İlkesi", "url": "" },
-        { "label": "Mağaza SKLA", "url": "" }
+        { "label": "Store Refund Policy", "url": "" },
+        { "label": "Store SLA", "url": "" }
       ]
     },
     {
-      "title": "Araçlar",
+      "title": "Tools",
       "links": [
         { "label": "Unreal Engine", "url": "" },
         { "label": "UEFN", "url": "" },
@@ -37,39 +37,39 @@
       ]
     },
     {
-      "title": "Çevrimiçi Hizmetler",
+      "title": "Online Services",
       "links": [
         { "label": "Epic Online Services", "url": "" },
         { "label": "Kids Web Services", "url": "" },
-        { "label": "Hizmet Anlaşması", "url": "" },
-        { "label": "Kabul Edilebilir Kullanım Politikası", "url": "" },
-        { "label": "Dürüstlük Beyanı", "url": "" },
-        { "label": "Alt Veri İşleyicisi Listesi", "url": "" }
+        { "label": "Terms of Service", "url": "" },
+        { "label": "Acceptable Use Policy", "url": "" },
+        { "label": "Statement of Integrity", "url": "" },
+        { "label": "Sub-processor List", "url": "" }
       ]
     },
     {
-      "title": "Şirket",
+      "title": "Company",
       "links": [
-        { "label": "Hakkında", "url": "" },
+        { "label": "About", "url": "" },
         { "label": "Newsroom", "url": "" },
-        { "label": "Kariyer Olanakları", "url": "" },
-        { "label": "Öğrenciler", "url": "" },
-        { "label": "Kullanıcı Deneyimi Araştırması", "url": "" }
+        { "label": "Careers", "url": "" },
+        { "label": "Students", "url": "" },
+        { "label": "User Experience Research", "url": "" }
       ]
     },
     {
-      "title": "Kaynaklar",
+      "title": "Resources",
       "links": [
-        { "label": "Geliştirici Topluluğu", "url": "" },
+        { "label": "Developer Community", "url": "" },
         { "label": "MegaGrants", "url": "" },
-        { "label": "İçerik Üreticilerini Destekleme", "url": "" },
-        { "label": "İçerik Üreticisi Anlaşması", "url": "" },
-        { "label": "Epic Games'te Dağıtım Yap", "url": "" },
-        { "label": "Unreal Engine Marka Rehberleri", "url": "" },
-        { "label": "Hayran İçerik Politikası", "url": "" },
-        { "label": "Topluluk Kuralları", "url": "" },
-        { "label": "AB Dijital Hizmetler Yasası Soruları", "url": "" },
-        { "label": "Epic Profesyonel Destek", "url": "" }
+        { "label": "Support-A-Creator", "url": "" },
+        { "label": "Creator Agreement", "url": "" },
+        { "label": "Distribute on Epic Games", "url": "" },
+        { "label": "Unreal Engine Brand Guidelines", "url": "" },
+        { "label": "Fan Content Policy", "url": "" },
+        { "label": "Community Rules", "url": "" },
+        { "label": "EU Digital Services Act Inquiries", "url": "" },
+        { "label": "Epic Professional Support", "url": "" }
       ]
     }
   ]

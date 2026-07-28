@@ -1,0 +1,34 @@
+{
+  "az": {
+    "bestsellers": "Ən çox satılanlar",
+    "freegames": "Pulsuz oynanan ən yaxşı oyunlar",
+    "comingsoon": "Ən çox istək siyahısına əlavə edilən yaxında çıxacaq oyunlar",
+    "free": "Pulsuz",
+    "coming_soon_badge": "Çox tezliklə",
+    "play": "Oyna"
+  },
+  "tr": {
+    "bestsellers": "En Çok Satanlar",
+    "freegames": "Oynaması Ücretsiz En İyi Oyunlar",
+    "comingsoon": "En Çok İstek Listesine Eklenen Yakında Çıkacak Oyunlar",
+    "free": "Ücretsiz",
+    "coming_soon_badge": "Çok Yakında",
+    "play": "Oyna"
+  },
+  "en": {
+    "bestsellers": "Best Sellers",
+    "freegames": "Best Free Games to Play",
+    "comingsoon": "Most Wishlisted Upcoming Games",
+    "free": "Free",
+    "coming_soon_badge": "Coming Soon",
+    "play": "Play"
+  },
+  "ru": {
+    "bestsellers": "Хиты продаж",
+    "freegames": "Лучшие бесплатные игры",
+    "comingsoon": "Самые ожидаемые предстоящие игры",
+    "free": "Бесплатно",
+    "coming_soon_badge": "Скоро",
+    "play": "Играть"
+  }
+}

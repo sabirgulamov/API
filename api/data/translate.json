@@ -5,7 +5,11 @@
     "comingsoon": "Ən çox istək siyahısına əlavə edilən yaxında çıxacaq oyunlar",
     "free": "Pulsuz",
     "coming_soon_badge": "Çox tezliklə",
-    "play": "Oyna"
+    "play": "Oyna",
+    "support": "Dəstək",
+    "distribute": "Paylayın",
+    "login": "Daxil ol",
+    "download": "Yüklə"
   },
   "tr": {
     "bestsellers": "En Çok Satanlar",
@@ -13,7 +17,11 @@
     "comingsoon": "En Çok İstek Listesine Eklenen Yakında Çıkacak Oyunlar",
     "free": "Ücretsiz",
     "coming_soon_badge": "Çok Yakında",
-    "play": "Oyna"
+    "play": "Oyna",
+    "support": "Destek",
+    "distribute": "Dağıtım Yap",
+    "login": "Giriş yap",
+    "download": "İndir"
   },
   "en": {
     "bestsellers": "Best Sellers",
@@ -21,7 +29,11 @@
     "comingsoon": "Most Wishlisted Upcoming Games",
     "free": "Free",
     "coming_soon_badge": "Coming Soon",
-    "play": "Play"
+    "play": "Play",
+    "support": "Support",
+    "distribute": "Distribute",
+    "login": "Log in",
+    "download": "Download"
   },
   "ru": {
     "bestsellers": "Хиты продаж",
@@ -29,6 +41,10 @@
     "comingsoon": "Самые ожидаемые предстоящие игры",
     "free": "Бесплатно",
     "coming_soon_badge": "Скоро",
-    "play": "Играть"
+    "play": "Играть",
+    "support": "Поддержка",
+    "distribute": "Распространение",
+    "login": "Войти",
+    "download": "Скачать"
   }
 }

@@ -19,7 +19,8 @@
     "security": "Qorunma və Təhlükəsizlik",
     "refund_policy": "Mağaza qaytarma siyasəti",
     "publisher_directory": "Naşir Kataloqu",
-    "copyright": "© {year} Epic Games, Inc. Bütün hüquqlar qorunur. Epic, Epic Games, Epic Games loqosu, Fortnite, Fortnite loqosu, Unreal, Unreal Engine, Unreal Engine loqosu, Unreal Tournament və Unreal Tournament loqosu, Amerika Birləşmiş Ştatlarında və digər yerlərdə Epic Games, Inc.-in ticarət nişanları və ya qeydiyyatdan keçmiş ticarət nişanlarıdır. Digər nişanlar və ya məhsul adları müvafiq sahiblərinin ticarət nişanlarıdır. Veb saytlarımız digər saytlara və üçüncü tərəflər tərəfindən təqdim olunan mənbələrə keçidlər ehtiva edə bilər. Bu keçidlər yalnız rahatlıq üçün təqdim olunur. Epic Games həmin saytların və mənbələrin məzmununa nəzarət etmir və bu məzmun və ya istifadəsi nəticəsində yaranan itki və zərərlərə görə məsuliyyət daşımır."
+    "copyright": "© {year} Epic Games, Inc. Bütün hüquqlar qorunur. Epic, Epic Games, Epic Games loqosu, Fortnite, Fortnite loqosu, Unreal, Unreal Engine, Unreal Engine loqosu, Unreal Tournament və Unreal Tournament loqosu, Amerika Birləşmiş Ştatlarında və digər yerlərdə Epic Games, Inc.-in ticarət nişanları və ya qeydiyyatdan keçmiş ticarət nişanlarıdır. Digər nişanlar və ya məhsul adları müvafiq sahiblərinin ticarət nişanlarıdır. Veb saytlarımız digər saytlara və üçüncü tərəflər tərəfindən təqdim olunan mənbələrə keçidlər ehtiva edə bilər. Bu keçidlər yalnız rahatlıq üçün təqdim olunur. Epic Games həmin saytların və mənbələrin məzmununa nəzarət etmir və bu məzmun və ya istifadəsi nəticəsində yaranan itki və zərərlərə görə məsuliyyət daşımır.",
+    "most_popular": "Ən Populyar"
   },
   "tr": {
     "bestsellers": "En Çok Satanlar",
@@ -41,7 +42,8 @@
     "security": "Koruma ve Güvenlik",
     "refund_policy": "Mağaza iade ilkesi",
     "publisher_directory": "Yayıncı Dizini",
-    "copyright": "© {year} Epic Games, Inc. Tüm hakları saklıdır. Epic, Epic Games, Epic Games logosu, Fortnite, Fortnite logosu, Unreal, Unreal Engine, Unreal Engine logosu, Unreal Tournament ve Unreal Tournament logosu, Amerika Birleşik Devletleri'nde ve başka yerlerde Epic Games, Inc.in ticari markaları veya tescilli ticari markalarıdır. Diğer markalar veya ürün adları, ilgili sahiplerinin ticari markalarıdır. Web sitelerimiz, diğer sitelere ve üçüncü taraflar tarafından sağlanan kaynaklara yönlendiren bağlantılar içerebilir. Bu bağlantılar yalnızca kolaylık sağlamak için sunulmuştur. Epic Games'in o sitelerde ve kaynaklarda yer alan içerikler üzerinde bir kontrolü bulunmamaktadır ve bu içerikler ya da bu içeriklerin kullanımı sonucu oluşabilecek kayıp ve zararlar konusunda Epic Games sorumluluk kabul etmemektedir."
+    "copyright": "© {year} Epic Games, Inc. Tüm hakları saklıdır. Epic, Epic Games, Epic Games logosu, Fortnite, Fortnite logosu, Unreal, Unreal Engine, Unreal Engine logosu, Unreal Tournament ve Unreal Tournament logosu, Amerika Birleşik Devletleri'nde ve başka yerlerde Epic Games, Inc.in ticari markaları veya tescilli ticari markalarıdır. Diğer markalar veya ürün adları, ilgili sahiplerinin ticari markalarıdır. Web sitelerimiz, diğer sitelere ve üçüncü taraflar tarafından sağlanan kaynaklara yönlendiren bağlantılar içerebilir. Bu bağlantılar yalnızca kolaylık sağlamak için sunulmuştur. Epic Games'in o sitelerde ve kaynaklarda yer alan içerikler üzerinde bir kontrolü bulunmamaktadır ve bu içerikler ya da bu içeriklerin kullanımı sonucu oluşabilecek kayıp ve zararlar konusunda Epic Games sorumluluk kabul etmemektedir.",
+    "most_popular": "En Popüler"
   },
   "en": {
     "bestsellers": "Best Sellers",
@@ -63,7 +65,8 @@
     "security": "Safety & Security",
     "refund_policy": "Store Refund Policy",
     "publisher_directory": "Publisher Directory",
-    "copyright": "© {year} Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Fortnite, the Fortnite logo, Unreal, Unreal Engine, the Unreal Engine logo, Unreal Tournament, and the Unreal Tournament logo are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere. Other brands or product names are trademarks of their respective owners. Our websites may contain links to other sites and to resources provided by third parties. These links are provided for convenience only. Epic Games has no control over the content on those sites or resources and accepts no responsibility for them or for any loss or damage that may arise from the use of them."
+    "copyright": "© {year} Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Fortnite, the Fortnite logo, Unreal, Unreal Engine, the Unreal Engine logo, Unreal Tournament, and the Unreal Tournament logo are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere. Other brands or product names are trademarks of their respective owners. Our websites may contain links to other sites and to resources provided by third parties. These links are provided for convenience only. Epic Games has no control over the content on those sites or resources and accepts no responsibility for them or for any loss or damage that may arise from the use of them.",
+    "most_popular": "Most Popular"
   },
   "ru": {
     "bestsellers": "Хиты продаж",
@@ -85,6 +88,7 @@
     "security": "Защита и безопасность",
     "refund_policy": "Политика возврата",
     "publisher_directory": "Каталог издателей",
-    "copyright": "© {year} Epic Games, Inc. Все права защищены. Epic, Epic Games, логотип Epic Games, Fortnite, логотип Fortnite, Unreal, Unreal Engine, логотип Unreal Engine, Unreal Tournament и логотип Unreal Tournament являются товарными знаками или зарегистрированными товарными знаками Epic Games, Inc. в США и других странах. Другие бренды или названия продуктов являются товарными знаками их соответствующих владельцев. Наши веб-сайты могут содержать ссылки на другие сайты и ресурсы, предоставляемые третьими сторонами. Эти ссылки предоставляются только для удобства. Epic Games не контролирует содержимое этих сайтов или ресурсов и не несет ответственности за них или за любые убытки или ущерб, возникшие в результате их использования."
+    "copyright": "© {year} Epic Games, Inc. Все права защищены. Epic, Epic Games, логотип Epic Games, Fortnite, логотип Fortnite, Unreal, Unreal Engine, логотип Unreal Engine, Unreal Tournament и логотип Unreal Tournament являются товарными знаками или зарегистрированными товарными знаками Epic Games, Inc. в США и других странах. Другие бренды или названия продуктов являются товарными знаками их соответствующих владельцев. Наши веб-сайты могут содержать ссылки на другие сайты и ресурсы, предоставляемые третьими сторонами. Эти ссылки предоставляются только для удобства. Epic Games не контролирует содержимое этих сайтов или ресурсов и не несет ответственности за них или за любые убытки или ущерб, возникшие в результате их использования.",
+    "most_popular": "Самое популярное"
   }
 }

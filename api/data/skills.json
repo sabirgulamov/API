@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "category": "frontend",
+    "title": {
+      "az": "Frontend Texnologiyaları",
+      "tr": "Frontend Teknolojileri",
+      "en": "Frontend Technologies"
+    },
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "jQuery",
+      "Tailwind CSS",
+      "Bootstrap",
+      "React",
+      "Material UI"
+    ]
+  },
+  {
+    "id": "2",
+    "category": "tools",
+    "title": {
+      "az": "Alətlər və Platformalar",
+      "tr": "Araçlar ve Platformalar",
+      "en": "Tools & Platforms"
+    },
+    "skills": [
+      "Postman",
+      "Vercel",
+      "JSON",
+      "XML"
+    ]
+  },
+  {
+    "id": "3",
+    "category": "microsoft",
+    "title": {
+      "az": "Microsoft Alətləri",
+      "tr": "Microsoft Araçları",
+      "en": "Microsoft Tools"
+    },
+    "skills": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint"
+    ]
+  },
+  {
+    "id": "4",
+    "category": "operating-systems",
+    "title": {
+      "az": "Əməliyyat Sistemləri",
+      "tr": "İşletim Sistemleri",
+      "en": "Operating Systems"
+    },
+    "skills": [
+      "Windows",
+      "Linux"
+    ]
+  },
+  {
+    "id": "5",
+    "category": "soft-skills",
+    "title": {
+      "az": "Soft Skills",
+      "tr": "Kişisel Beceriler",
+      "en": "Soft Skills"
+    },
+    "skills": [
+      "Problem-solving",
+      "Critical thinking",
+      "Attention to detail",
+      "Fast learner",
+      "Team collaboration",
+      "Communication",
+      "Self-motivated",
+      "Adaptability"
+    ]
+  }
+]

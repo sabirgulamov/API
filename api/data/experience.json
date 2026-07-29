@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "company": "FindEat Food",
+    "position": {
+      "az": "Həmtəsisçi və Frontend Developer",
+      "tr": "Kurucu Ortak ve Frontend Developer",
+      "en": "Co-founder & Frontend Developer"
+    },
+    "location": "Baku, Azerbaijan",
+    "startDate": "10.02.2026",
+    "endDate": {
+      "az": "Hazırda",
+      "tr": "Devam ediyor",
+      "en": "Current"
+    },
+    "description": {
+      "az": "Bakı istifadəçiləri üçün restoran kəşf platformasının hazırlanmasında iştirak etdim. Responsive interfeys, location-based axtarış, dinamik filter və REST API inteqrasiyası üzərində işlədim.",
+      "tr": "Bakü kullanıcıları için restoran keşif platformunun geliştirilmesinde yer aldım. Responsive arayüz, konum tabanlı arama, dinamik filtreleme ve REST API entegrasyonu üzerinde çalıştım.",
+      "en": "Co-founded and developed a restaurant discovery platform for users in Baku. Worked on responsive interfaces, location-based search, dynamic filtering and REST API integration."
+    },
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Tailwind CSS",
+      "Bootstrap",
+      "REST API",
+      "Postman",
+      "Vercel"
+    ]
+  }
+]

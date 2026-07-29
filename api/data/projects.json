@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "az": "FindEat",
+      "tr": "FindEat",
+      "en": "FindEat"
+    },
+    "category": "React",
+    "description": {
+      "az": "Bakıdakı restoranları kəşf etməyə imkan verən müasir restoran discovery platforması. İstifadəçilər ünvan seçərək restoranları araşdıra, müxtəlif filterlərdən istifadə edə və yüksək reytinqli məkanları kəşf edə bilərlər.",
+      "tr": "Bakü'deki restoranları keşfetmeyi sağlayan modern bir restoran keşif platforması. Kullanıcılar adres seçerek restoranları inceleyebilir, çeşitli filtreleri kullanabilir ve yüksek puanlı mekanları keşfedebilir.",
+      "en": "A modern restaurant discovery platform for exploring restaurants in Baku. Users can select an address, explore restaurants, use different filtering options and discover highly rated places."
+    },
+    "technologies": [
+      "React",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Bootstrap",
+      "REST API",
+      "Postman",
+      "Vercel"
+    ],
+    "github": "",
+    "live": "https://www.findeat.food/",
+    "image": "",
+    "featured": true
+  }
+]

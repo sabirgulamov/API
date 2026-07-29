@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "az": "Azərbaycan dili",
+      "tr": "Azerbaycan dili",
+      "en": "Azerbaijani"
+    },
+    "level": {
+      "az": "Ana dili",
+      "tr": "Ana dili",
+      "en": "Native"
+    },
+    "levelCode": "Native"
+  },
+  {
+    "id": "2",
+    "name": {
+      "az": "İngilis dili",
+      "tr": "İngilizce",
+      "en": "English"
+    },
+    "level": {
+      "az": "B1",
+      "tr": "B1",
+      "en": "B1"
+    },
+    "levelCode": "B1"
+  },
+  {
+    "id": "3",
+    "name": {
+      "az": "Türk dili",
+      "tr": "Türkçe",
+      "en": "Turkish"
+    },
+    "level": {
+      "az": "B2",
+      "tr": "B2",
+      "en": "B2"
+    },
+    "levelCode": "B2"
+  }
+]

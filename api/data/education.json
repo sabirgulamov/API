@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "institution": "Azerbaijan Technical University",
+    "degree": {
+      "az": "Bakalavr",
+      "tr": "Lisans",
+      "en": "Bachelor's Degree"
+    },
+    "field": {
+      "az": "Logistika və nəqliyyat",
+      "tr": "Lojistik ve Ulaştırma",
+      "en": "Logistics and Transportation"
+    },
+    "startDate": "15.09.2024",
+    "endDate": {
+      "az": "Hazırda",
+      "tr": "Devam ediyor",
+      "en": "Current"
+    },
+    "location": "Baku, Azerbaijan"
+  },
+  {
+    "id": "2",
+    "institution": "Div Academy",
+    "degree": {
+      "az": "Frontend Developer Proqramı",
+      "tr": "Frontend Developer Programı",
+      "en": "Frontend Developer Program"
+    },
+    "field": {
+      "az": "React ilə müasir Frontend Development",
+      "tr": "React ile Modern Frontend Development",
+      "en": "Modern Frontend Development with React"
+    },
+    "startDate": "16.10.2025",
+    "endDate": "25.06.2026",
+    "location": "Baku, Azerbaijan"
+  }
+]
